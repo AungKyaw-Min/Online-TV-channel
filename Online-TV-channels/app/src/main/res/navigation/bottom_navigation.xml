@@ -6,12 +6,12 @@
     app:startDestination="@id/bottomMainFragment">
     <fragment
         android:id="@+id/bottomMainFragment"
-        android:name="com.example.app3.BottomMainFragment"
+        android:name="com.example.app4.BottomMainFragment"
         android:label="fragment_bottom_main"
         tools:layout="@layout/fragment_bottom_main" />
     <fragment
         android:id="@+id/bottomThirdFragment"
-        android:name="com.example.app3.BottomThirdFragment"
+        android:name="com.example.app4.BottomThirdFragment"
         android:label="fragment_bottom_third"
         tools:layout="@layout/fragment_bottom_third" >
         <action
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/videoFragment"
-        android:name="com.example.app3.VideoFragment"
+        android:name="com.example.app4.VideoFragment"
         android:label="fragment_video"
         tools:layout="@layout/fragment_video" >
         <argument
@@ -29,7 +29,7 @@
     </fragment>
     <fragment
         android:id="@+id/bottomSecondFragment"
-        android:name="com.example.app3.BottomSecondFragment"
+        android:name="com.example.app4.BottomSecondFragment"
         android:label="fragment_bottom_second"
         tools:layout="@layout/fragment_bottom_second" >
         <action
