@@ -1,10 +1,10 @@
 # Online-TV-channel
 
-## Before all the steps
+## First fragment
 ![first-page](images/bottom_main.png)
 
-## Execution flow
+## Second Fragment
 ![second-page](images/bottom_second.png)
 
-## After all the steps
+## Third Fragment
 ![third-page](images/bottom_third.png)
